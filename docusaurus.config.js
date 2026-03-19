@@ -18,7 +18,7 @@ const config = {
   url: 'https://maplephp.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/DTO/',
+  baseUrl: '/dto/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -103,7 +103,7 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://github.com/MaplePHP/DTO',
+            href: 'https://github.com/MaplePHP/dto',
             label: 'GitHub',
             position: 'right',
           },
@@ -130,7 +130,7 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/MaplePHP/DTO',
+                href: 'https://github.com/MaplePHP/dto',
               },
               {
                 label: 'LinkedIn',
